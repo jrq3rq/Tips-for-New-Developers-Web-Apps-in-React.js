@@ -4,7 +4,7 @@ Install Firebase CLI:
 
 ### You will need to install Firebase Command Line Interface (CLI) using Homebrew or npm. Open your terminal and enter one of the following commands:
 
-## For Mac users:
+For Mac users:
 
 ```javascript
 // This is an example of a code block
