@@ -46,3 +46,18 @@ $ firebase deploy
 ```
 
 Your website will be available at the URL specified in the Firebase console.
+
+# Links to Get Started with Firebase
+
+- [Firebase Website](https://firebase.google.com/)
+- [Firebase Documentation](https://firebase.google.com/docs)
+- [Firebase Console](https://console.firebase.google.com/)
+- [Firebase CLI Documentation](https://firebase.google.com/docs/cli)
+- [Firebase Hosting Documentation](https://firebase.google.com/docs/hosting)
+- [Firebase Authentication Documentation](https://firebase.google.com/docs/auth)
+- [Firebase Realtime Database Documentation](https://firebase.google.com/docs/database)
+- [Firebase Cloud Firestore Documentation](https://firebase.google.com/docs/firestore)
+- [Firebase Cloud Functions Documentation](https://firebase.google.com/docs/functions)
+- [Firebase Cloud Messaging Documentation](https://firebase.google.com/docs/cloud-messaging)
+- [Firebase Storage Documentation](https://firebase.google.com/docs/storage)
+
